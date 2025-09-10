@@ -101,7 +101,7 @@ export default function Home() {
           <div
             className="absolute inset-0 bg-cover bg-center opacity-30"
             style={{
-              backgroundImage: "url('https://i.pinimg.com/736x/19/a7/62/19a762b8620a8a33c31a34ee22dfcfe4.jpg')"
+              backgroundImage: "url('https://mir-s3-cdn-cf.behance.net/project_modules/1400/81e51587371983.5db984333fbe8.jpg')"
             }}
           />
           <div className="absolute inset-0 bg-black/50" />
@@ -826,3 +826,4 @@ export default function Home() {
     </div>
   )
 }
+
