@@ -805,7 +805,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-center md:text-left">
                 <p className="text-gray-400">
-                  &copy; 2024 LUXE. Все права защищены.
+                  &copy; 2025 LUXE. Все права защищены.
                   <span className="text-amber-400 ml-1">Создано с ❤️ для стильных людей.</span>
                 </p>
               </div>
@@ -826,4 +826,5 @@ export default function Home() {
     </div>
   )
 }
+
 
